@@ -20,7 +20,7 @@ Table - Ticker Adjusted Price
         
 Table - tickers
 
-        To make the ticker functionality more scalable this table is made to store the ticker active for the current date for each Company. 
+To make the ticker functionality more scalable this table is made to store the ticker active for the current date for each Company. 
        
        Following are values:
        
@@ -34,7 +34,7 @@ Table - tickers
         
  Table - ticker_dim
  
-         A dimension table is implemented for tickers so that we can track the details for each ticker.
+ A dimension table is implemented for tickers so that we can track the details for each ticker.
          
          Following are values:
          
