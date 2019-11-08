@@ -53,3 +53,4 @@ Table - tickers
  
   This is file written in Python code to upload the csv into database for the schema designed in Part1. 
   The csv file uploaded has been taken from  'https://www.alphavantage.co'.
+        The file used is attached here as part of solution - daily_adjusted_CAR.csv
