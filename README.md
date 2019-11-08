@@ -24,13 +24,13 @@ Table - tickers
        
        Following are values:
        
-        ticker_id - A sequence for each entry in the table
-        ticker - Ticker Value
+        ticker_id         - A sequence for each entry in the table
+        ticker            - Ticker Value
         ticker_identifier - Identifier pertaining to a company that holds the ticker Value
-        create_id - Created By Id       
-        create_date - Created by Date     
-        update_id - Updated By Id        
-        update_date - Updated by Date
+        create_id         - Created By Id       
+        create_date       - Created by Date     
+        update_id         - Updated By Id        
+        update_date       - Updated by Date
         
  Table - ticker_dim
  
@@ -38,9 +38,9 @@ Table - tickers
          
          Following are values:
          
-         ticker_dim_key - A dim key reoresenting sequence for each entry       
-         ticker_id - Ticker Id corressponding to Id in 'tickers' table     
-         dim_effective_date - Date at which ticker is effective   
+         ticker_dim_key       - A dim key reoresenting sequence for each entry       
+         ticker_id            - Ticker Id corressponding to Id in 'tickers' table     
+         dim_effective_date   - Date at which ticker is effective   
          dim_expiration_date  - Date at which ticker is expired
          ticker_identifier    - Ticker idetifier corressponding to the company of the ticker 
          company_name         - Name of the Company 
