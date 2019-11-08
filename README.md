@@ -3,6 +3,7 @@
 Part1 ) CARS_TICKER.SQL
 
 Table - Ticker Adjusted Price
+
         This table consists of Pricing entries made and their ticker values.
         
         Following are values:
@@ -18,6 +19,7 @@ Table - Ticker Adjusted Price
         Split_coefficient   
         
 Table - tickers
+
         To make the ticker functionality more scalable this table is made to store the ticker active for the current date for each Company. 
        
        Following are values:
@@ -31,6 +33,7 @@ Table - tickers
         update_date - Updated by Date
         
  Table - ticker_dim
+ 
          A dimension table is implemented for tickers so that we can track the details for each ticker.
          
          Following are values:
