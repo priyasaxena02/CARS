@@ -46,8 +46,8 @@ Table - tickers
          company_name         - Name of the Company 
          create_id            - Creation By 
          create_date          - Created Date
-         update_id            - Updated By'
-         update_date          - Updation Date.
+         update_id            - Updated By
+         update_date          - Updation Date
          
  Part2) CSV_INSERT.PY
  
